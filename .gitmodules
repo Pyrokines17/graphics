@@ -1,0 +1,3 @@
+[submodule "photoEditor"]
+	path = photoEditor
+	url = https://github.com/Pyrokines17/photoEditor.git
