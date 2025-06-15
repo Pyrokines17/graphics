@@ -1,0 +1,4 @@
+/*
+Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+setLocation(screenSize.width/2, screenSize.height/2);
+*/
